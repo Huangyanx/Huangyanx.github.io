@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "5.0.0",
+  "description": "private blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huangyanx/Huangyanx.github.io.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "huangyanx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huangyanx/Huangyanx.github.io/issues"
+  },
+  "homepage": "https://github.com/Huangyanx/Huangyanx.github.io#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.5"
+  }
+}

@@ -1,0 +1,20 @@
+body{background-color:rgb(230, 249, 244);;color:#fff;}
+#banner{
+	width:100%;
+	height:400px;
+}
+#canvas{position:absolute;z-index:-99;}
+main{
+	width:80%;
+	background-color:#eee;
+	margin:auto;
+}
+.plate  .head{
+	width:100%;
+	height:50px;
+}
+.plate .show{
+	width:360px;
+	height:400px;
+	background:red;
+}
